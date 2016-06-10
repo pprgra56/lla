@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
 s.description      = 'also say noting to say'
 
-  s.homepage         = 'https://github.com/pprgra56/lla'
+  s.homepage         = 'https://baidu.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ChangQiong' => 'pprgra56@126.com' }
