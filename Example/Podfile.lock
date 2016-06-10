@@ -1,0 +1,14 @@
+PODS:
+  - lla (0.1.0)
+
+DEPENDENCIES:
+  - lla (from `../`)
+
+EXTERNAL SOURCES:
+  lla:
+    :path: ../
+
+SPEC CHECKSUMS:
+  lla: df5e2239de84966e3f884d8425c00058ce988ed4
+
+COCOAPODS: 0.39.0

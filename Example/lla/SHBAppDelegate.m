@@ -8,11 +8,17 @@
 
 #import "SHBAppDelegate.h"
 
+
+#import <lla/Add.h>
+
+
 @implementation SHBAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+
+    Add *a  = [Add new];
     return YES;
 }
 

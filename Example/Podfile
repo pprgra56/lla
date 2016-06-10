@@ -4,7 +4,7 @@ target 'lla_Example' do
   pod 'lla', :path => '../'
 
   target 'lla_Tests' do
-    inherit! :search_paths
+    
 
     
   end
