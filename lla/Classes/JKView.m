@@ -9,5 +9,13 @@
 #import "JKView.h"
 
 @implementation JKView
+- (instancetype)initWithFrame:(CGRect)frame
+{
+    self = [super initWithFrame:frame];
+    if (self) {
+        self.backgroundColor = [UIColor yellowColor];
 
+    }
+    return self;
+}
 @end

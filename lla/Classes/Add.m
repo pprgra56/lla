@@ -10,6 +10,6 @@
 
 @implementation Add
 -(void)jia{
-    NSLog(@"\U0001F449 411 \U0001F448 %s[%d] " , __PRETTY_FUNCTION__, __LINE__);
+    NSLog(@"\U0001F449 522 \U0001F448 %s[%d] " , __PRETTY_FUNCTION__, __LINE__);
 }
 @end
