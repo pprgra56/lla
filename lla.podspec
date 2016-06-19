@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'lla'
   s.version          = '0.1.0'
-  s.summary          = 'nothing to say '
+  s.summary          = 'my name is ChangQiong '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
 s.description      = 'also say noting to say'
 
-  s.homepage         = 'https://baidu.com'
+  s.homepage         = 'http://weibo.com/u/2860853605/home?wvr=5'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ChangQiong' => 'pprgra56@126.com' }
