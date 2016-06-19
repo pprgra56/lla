@@ -8,6 +8,14 @@
 
 #import "SHBViewController.h"
 
+
+@import lla.Add;
+@import lla.Father;
+@import lla.JKView;
+
+
+
+@import lla.Father;
 @interface SHBViewController ()
 
 @end
@@ -17,7 +25,17 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    JKView *jk = [[JKView alloc] initWithFrame:CGRectMake(100, 100, 100, 100)];
+    [self.view addSubview:jk];
+    Add *a  = [Add new];
+    [a jia];
+    Father *f = [Father new];
+    [f one];
+
+    [f two:@"changqiong"];
+    [f three:23];
+
+
 }
 
 - (void)didReceiveMemoryWarning

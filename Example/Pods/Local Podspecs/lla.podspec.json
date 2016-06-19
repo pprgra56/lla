@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "nothing to say",
   "description": "also say noting to say",
-  "homepage": "https://github.com/pprgra56/lla",
+  "homepage": "https://baidu.com",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -18,5 +18,9 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "lla/Classes/**/*"
+  "source_files": "lla/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
 }

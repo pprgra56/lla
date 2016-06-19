@@ -9,7 +9,9 @@
 #import "SHBAppDelegate.h"
 
 
-#import <lla/Add.h>
+
+
+
 
 
 @implementation SHBAppDelegate
@@ -18,7 +20,7 @@
 {
     // Override point for customization after application launch.
 
-    Add *a  = [Add new];
+
     return YES;
 }
 
